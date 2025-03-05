@@ -1,13 +1,14 @@
 # GradioFlux-free
-A Gradio Image Genration with Flulx.1-Schnell and together.ai free API
+A Gradio Image Generation with Flulx.1-Schnell and [together.ai](https://api.together.ai/) free API
 
 The Gradio Interface that complete my other[ GitHub Rpository](https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/blob/main/README.md)
 
 
+<img src='https://github.com/fabiomatricardi/GradioFlux-free/raw/main/FluxGRADIO.png' width=900>
 
-How to generate Images with Flux.1-Schnell and free API from Tegether.AI
+> portrait | wide angle shot of eyes off to one side of frame, lucid dream-like 3d model of owl, game asset, blender, looking off in distance ::8 style | glowing ::8 background | forest, vivid neon wonderland, particles, blue, green, orange ::7 parameters | rule of thirds, golden ratio, assymetric composition, hyper- maximalist, octane render, photorealism, cinematic realism, unreal engine, 8k ::7 --ar 16:9 --s 1000
 
-<img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/terrarium.png' height=300> <img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/dragon.png' height=300>
+---
 
 Together AI provide free access with API to Top Notch models.
 
@@ -38,21 +39,13 @@ FLUX.1-Schnell can produce images in only 4 steps due to its training methodolog
 #### Note
 > You cannot set more than 4 steps in the generation!
 
-## Generation quality by number of steps
+## Generation results
 
 > PROMPT: Depict a cozy, warmly lit bookstore cafe on a rainy evening. The atmosphere should be inviting and nostalgic, with soft yellow lighting from vintage lamps illuminating rows of well-worn books. Show patrons reading in comfortable armchairs, steam rising from their coffee cups. The large front window should reveal a glistening wet street outside, with blurred lights from passing cars. Emphasize the contrast between the warm interior and the cool, rainy exterior.
 
+Here the few examples (1 step on the left, 4 steps on the right)
 
-Here the same prompt from 1 to 2 steps (left to right)
-
-<img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-1step.png' width=450> <img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-2steps.png' width=450> 
-
-Here the same prompt from 3 to 4 steps (left to right)
-
-<img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-3steps.png' width=450> <img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-4steps.png' width=450>
-
-
-
+<img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-1step.png' width=450> <img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/interior-4steps.png' width=450>
 
 ---
 
@@ -81,7 +74,7 @@ You will be asked for:
 You can find more [here](https://getimg.ai/blog/flux-1-prompt-guide-pro-tips-and-common-mistakes-to-avoid) and [here](https://aimlapi.com/blog/master-the-art-of-ai-top-10-prompts-for-flux-1-by-black-forests-labs)
 
 
-> A hanging glass terrarium featuring a miniature rainforest scene with colorful orchids and tiny waterfalls. Just beyond the glass, a neon sign reads 'Rainforest Retreat.' The rain-soaked glass creates a beautiful distortion, adding a soft glow to the sign's vibrant colors
+> A hanging glass terrarium featuring a miniature rainforest scene with colorful orchids and tiny waterfalls. Just beyond the glass, a neon sign reads 'Rainforest Retreat.' The rain-soaked glass creates a beautiful distortion, adding a soft glow to the sign's vibrant colors - [from source](https://www.3daistudio.com/blog/the-best-flux-black-forest-labs-prompts-for-good-results-in-ai-image-generation)
 
 <img src='https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/raw/main/terrarium.png' height=400> 
 
@@ -109,10 +102,10 @@ You can find more [here](https://getimg.ai/blog/flux-1-prompt-guide-pro-tips-and
 - [Introduction](https://docs.together.ai/docs/introduction) to TogetherAI and services
 - [Together.Cookbooks](https://github.com/togethercomputer/together-cookbook)
 - How to create Images - [QuickStart](https://docs.together.ai/docs/images-overview)
+- other [amazing prompts](https://www.3daistudio.com/blog/the-best-flux-black-forest-labs-prompts-for-good-results-in-ai-image-generation)
 
 
 ---
 
-Gradio Interface soon
 
----
+
