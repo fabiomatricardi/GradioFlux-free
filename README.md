@@ -4,7 +4,7 @@ A Gradio Image Generation with Flulx.1-Schnell and [together.ai](https://api.tog
 The Gradio Interface that complete my other[ GitHub Rpository](https://github.com/fabiomatricardi/FLUX1-Schenll_TAI-freeAPI/blob/main/README.md)
 
 
-<img src='https://github.com/fabiomatricardi/GradioFlux-free/blob/main/FluxGRADIO.png' width=900>
+<img src='https://github.com/fabiomatricardi/GradioFlux-free/raw/main/FluxGRADIO_mock.png' width=900>
 
 > portrait | wide angle shot of eyes off to one side of frame, lucid dream-like 3d model of owl, game asset, blender, looking off in distance ::8 style | glowing ::8 background | forest, vivid neon wonderland, particles, blue, green, orange ::7 parameters | rule of thirds, golden ratio, assymetric composition, hyper- maximalist, octane render, photorealism, cinematic realism, unreal engine, 8k ::7 --ar 16:9 --s 1000
 
