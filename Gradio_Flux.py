@@ -97,7 +97,9 @@ with gr.Blocks(fill_width=True,theme=theme) as demo:
     with gr.Row():
         #HYPERPARAMETERS
         with gr.Column(scale=1):
-            TOKEN = gr.Textbox(lines=1,label='API KEY',scale=1,info='Togheter AI API key')
+            TOKEN = gr.Textbox(lines=1,label='API KEY',scale=1,
+                               info='Togheter AI API key',
+                              type='password')
             gr.Markdown('---')
             i_steps = gr.Slider(minimum=1,maximum=4,value=4,step=1,label='Steps')
             i_width = gr.Slider(minimum=64,maximum=1024,value=1024,step=64,label='Width')
