@@ -38,13 +38,6 @@ def openDIR():
     current_directory = os.getcwd()
     print("Current Directory:", current_directory)
     os.system(f'start explorer "{current_directory}"')
-
-def checkHFT(hf_token):
-    if 'hf_' in hf_token:
-        return gr.Row(visible=True),gr.Row(visible=True),gr.Row(visible=True),gr.Row(visible=True),"✅HF TOKEN detected"
-   
-    else:
-        gr.Warning("⚠️ You don't have a Hugging Face Token set")
   
 
 ############### CREATE IMAGE ##########################
